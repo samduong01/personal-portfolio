@@ -93,7 +93,7 @@ const AboutSection = () => {
           <br />
           <br />
           What truly excites me is when I get to blend software and hardware, 
-          crafting solutions that span both domains. At the same time, I'm no stranger to diving deep into specialized areas when a project calls for it.
+          crafting solutions that span both domains. At the same time, I&apos;m no stranger to diving deep into specialized areas when a project calls for it.
           <br />
           <br />
           </p>
@@ -101,7 +101,7 @@ const AboutSection = () => {
       </div>
       <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <p className="text-base lg:text-lg">
-          In the realm of software, I've written critical C code for NASA's Lunar Gateway Space Station, 
+          In the realm of software, I&apos;ve written critical C code for NASA&apos;s Lunar Gateway Space Station, 
           developed Python simulations for CAT excavators in a 3D environment, and am currently crafting cross-platform applications using Flutter.
           <br />
           <br />
@@ -109,8 +109,8 @@ const AboutSection = () => {
           I have designed and manufactured 7 robots utilizing CAD, CNC, 3D printing, and manual fabrication techniques that have won numerous competitions and awards. 
           <br />
           <br />
-          Throughout my experiences, I've had the privilege of collaborating with outstanding teams. Leading a robotics team revealed my passion for growing teams from the ground up. I believe my diverse skill set in, leadership, software, and hardware, can add significant value to your team.
-          I have a strong commitment to continuous learning and I'm eager to leverage internship opportunities to delve deeper into areas like machine learning, computer vision, embedded systems, and mechatronics         
+          Throughout my experiences, I&apos;ve had the privilege of collaborating with outstanding teams. Leading a robotics team revealed my passion for growing teams from the ground up. I believe my diverse skill set in, leadership, software, and hardware, can add significant value to your team.
+          I have a strong commitment to continuous learning and I&apos;m eager to leverage internship opportunities to delve deeper into areas like machine learning, computer vision, embedded systems, and mechatronics         
            <br />
           <br />
           Outside of engineering, I enjoy arranging songs on the guitar, riding the waves whenever I can, and passionately supporting the Chicago Bears.
