@@ -68,7 +68,7 @@ const EmailSection = () => {
             <Image src={LinkedinIcon} alt="Linkedin Icon" />
           </Link>
           <button type="button" onClick={() => router.push('mailto:samduong01@gmail.com')}>
-            <Image src={EmailIcon} alt="Email Icon" width={40} height={40}/>
+            <Image src={EmailIcon} alt="Email-Icon" width={40} height={40}/>
           </button>
         </div>
       </div>
